@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  uday:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-03-23T13:17:11.080239135Z"
+    description: A Helm chart for Kubernetes
+    digest: e6e176acb3c43f8d0841e2e250c1979c0954a26e4d34e7e6feefe88eb6eb62d7
+    name: uday
+    type: application
+    urls:
+    - uday-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-03-23T13:17:11.07976943Z"
